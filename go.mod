@@ -15,5 +15,4 @@ require (
 	github.com/spf13/viper v1.2.1
 	github.com/stretchr/testify v1.2.2
 	github.com/urfave/cli v1.20.0
-	golang.org/x/tools v0.0.0-20181108221941-77439c55185e // indirect
 )
